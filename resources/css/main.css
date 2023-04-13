@@ -32,6 +32,10 @@ a {
     color: #192740 !important;
 }
 
+a::before {
+    text-decoration: none !important;
+}
+
 .navbar {
     opacity: 0.85 !important;
 }
